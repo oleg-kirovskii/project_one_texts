@@ -1,0 +1,6 @@
+[submodule "Generic"]
+	path = Generic
+	url = ../project_one_generic
+[submodule "tech"]
+	path = tech
+	url = ../project_one_toolchain

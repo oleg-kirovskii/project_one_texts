@@ -1,0 +1,9 @@
+{
+  "chapters": ["chapters/01-example/01-example.md", "chapters/02-example/02-example.md"],
+  "bibliography": ["../bibliography/references.bib"],
+  "csl": "../tools/typesetting/templates/gost-r-7-0-5-2008-numeric.csl",
+  "reference": "../tech/typesetting/templates/reference.docx",
+  "quarto_version": "1.10.18",
+  "pandoc_version": "3.10",
+  "toc": true
+}
